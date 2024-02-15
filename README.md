@@ -1,1 +1,1 @@
-This is a repo containing the more important files produced during a case study on NYC Shootings. This was a term project for JHU's Data Analytics course. Utilized R with heavy usage of the tidyverse for data manipulation as weel as ggplot2 for figure generation.
+This is a repo containing the more important files produced during a case study on NYC Shootings. This was a term project for JHU's Data Analytics course. Utilized R with heavy usage of the tidyverse for data manipulation as well as ggplot2 for figure generation.
